@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863641081448",
+    "firebase_url": "https://my-211aa.firebaseio.com",
+    "project_id": "my-211aa",
+    "storage_bucket": "my-211aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863641081448:android:918ba2d713fb73172a8ddd",
+        "android_client_info": {
+          "package_name": "com.example.myamazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863641081448-3o5snshbviufcoq77df3mk5rt0canf8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZff9jolEay-qt21ZUy8nUsx4_Q2YHe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863641081448-3o5snshbviufcoq77df3mk5rt0canf8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
